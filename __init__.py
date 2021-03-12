@@ -1,6 +1,6 @@
 from mycroft.skills.core import MycroftSkill, intent_file_handler
 from mycroft.audio import wait_while_speaking
-from py_edamam
+import py_edamam
 
 
 __author__ = 'jarbas'
